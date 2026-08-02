@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "version": "0.5.0-dev.1",
-  "sourceCommit": "586413c4b019cc9750c6167ad8476990108d54e9",
-  "artifactSha256": "7b9cf13d5e2e508a21fb0d792843f27298fc9b3741ba6d7297499f51caf6d61f",
+  "version": "0.5.0-dev.2",
+  "sourceCommit": "6e71a639ab6e3b0ad04492f6246875f912bc4c34",
+  "artifactSha256": "24c580fe23d9d1d191fc2e37b08751c6b70a6462dfb799fbf5c2f19b85b0e2a3",
   "files": [
     {
       "path": ".nojekyll",
@@ -466,6 +466,16 @@
       "sha256": "6d2cc1b079a3ee3fc04869e931327e2582ca45df34825b2a0ef2fb30359b9bea"
     },
     {
+      "path": "assets/NotoSansSC_UI_V2_Regular-B2W_S2bL.ttf",
+      "bytes": 115644,
+      "sha256": "cff4bc9945db420d8068bc3d76d79e4cfb1a98dcbfc67933e31899673d8c4b92"
+    },
+    {
+      "path": "assets/NotoSansSC_UI_V2_SemiBold-BrSuTBTF.ttf",
+      "bytes": 115596,
+      "sha256": "f342d58d106eb5ba6973a0c11caf09989b85c9d74af8f78e582da6d3987f64df"
+    },
+    {
       "path": "assets/RenderTargetSystem-CPGO_PX-.js",
       "bytes": 51787,
       "sha256": "cbef40a213a917d012152ee609440e0613dc1fbc7226d5106fcc8edf2651b22d"
@@ -586,14 +596,14 @@
       "sha256": "c04c7f4170b3841de5cc87be6b5d6b076ecf80d1f288829c54a331eee5865189"
     },
     {
-      "path": "assets/index-CWKmEmgk.css",
-      "bytes": 24943,
-      "sha256": "a0f5db1c3eb84a020076b5547850acdb67d8a7e62f26825656aaa7c534c73bba"
+      "path": "assets/index-C_0v_pbt.css",
+      "bytes": 26283,
+      "sha256": "76a883e59bbfc982373b0d93b978eaedc6f8680e15544bee9f333da76f167bdc"
     },
     {
-      "path": "assets/index-dMaiAb2S.js",
-      "bytes": 704788,
-      "sha256": "e4dcc5aa330779ce3fdbe80c5077950b1b2f40281a942d35e5e066e25833ea2e"
+      "path": "assets/index-DqRrDmWz.js",
+      "bytes": 706539,
+      "sha256": "4a97be086a91abeba2b052351226bda3dda66059031d526e9197b8ec83fd54b8"
     },
     {
       "path": "assets/init-Bb_cVuep.js",
@@ -693,7 +703,7 @@
     {
       "path": "index.html",
       "bytes": 1522,
-      "sha256": "3060f59b546bcd8394e046684ae8ed79a49fcc066de7617dd05d2ccadfd4f494"
+      "sha256": "4b2af25c5b39cb6838961eee4001aac7f2e1b670b0e762572d8c2c05c1b95ce4"
     },
     {
       "path": "manifest.webmanifest",
@@ -707,13 +717,13 @@
     },
     {
       "path": "sw.js",
-      "bytes": 10805,
-      "sha256": "ee99ff2ea1f341ac5dfc866c2c2a535d01d3319f24c3312d6d30d4116e99caa5"
+      "bytes": 10940,
+      "sha256": "64c2eda07aa934e5b846fa49f19c1f501382bfc33114e0cef47f6d1fbe695cf2"
     },
     {
       "path": "version.json",
       "bytes": 209,
-      "sha256": "af382b95ccaf3f92f60aacf131d9da06fcc4c92b9bb1a497d734212e85e5a52e"
+      "sha256": "3eab850607da4c9fb4b7f0bf819b8aea56840b6121069483a9a74031040f93a8"
     },
     {
       "path": "workbox-71b77ef8.js",
