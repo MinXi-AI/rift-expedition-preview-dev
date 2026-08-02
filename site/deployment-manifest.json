@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "version": "0.5.0-dev.3",
-  "sourceCommit": "e82214401d599761147652e3146323ae4a38a2ba",
-  "artifactSha256": "67b213a8ee1e97e129f8e2f87dd44f201e75e14014ccd728a91e523a973c855e",
+  "version": "0.5.0-dev.4",
+  "sourceCommit": "3f8d80bd693f8954f61329d892dfaaad91a68015",
+  "artifactSha256": "125c91a803e192913a47f09c6158b344df000f7df376882b0e544c25f1880793",
   "files": [
     {
       "path": ".nojekyll",
@@ -26,9 +26,24 @@
       "sha256": "4b1867cf3f9cbaf6c58742b6f439bec2416ae1c7699b6ac448343a3aec9263dd"
     },
     {
+      "path": "assets/10_rift_core_mask-B9xJRc33.png",
+      "bytes": 57427,
+      "sha256": "1104367aa8b1bede340fdce1a0f7aa857bb0de6fb5c6eed47e121dd17d423975"
+    },
+    {
       "path": "assets/11_phantom_blade_shared_feint_body_blades_locked_v1-BObxkwq8.png",
       "bytes": 647346,
       "sha256": "2fb24bed179b5705ec7ecdbdb7a76e0bc3e028970c2e620a0ef72dd4ba70b26c"
+    },
+    {
+      "path": "assets/11_rift_aura_mask-BqFZtBg5.png",
+      "bytes": 34290,
+      "sha256": "8bc1c6a9aafab1a58cbf973e25e68939edf54f99f530ebecb02b6eb43a5ee88b"
+    },
+    {
+      "path": "assets/20_anchor_glow_mask-D-YSS2CD.png",
+      "bytes": 60454,
+      "sha256": "f08ef173e7609b768d099d558d46cb1dcbdf17a8d58c9d2970e623d928ebc8ea"
     },
     {
       "path": "assets/20_body_staff-fTCzX20z.png",
@@ -124,6 +139,11 @@
       "path": "assets/22_phantom_blade_idle_body_blades_blink_locked_v1-DaU4Dxm1.png",
       "bytes": 728253,
       "sha256": "f7b9ac1f66b74900afc51bd7624ef0fbf768e6d246fef6f75f910b0d0bb62028"
+    },
+    {
+      "path": "assets/30_corruption_cracks_mask-BfAjLl41.png",
+      "bytes": 132992,
+      "sha256": "7fdf1c8e9331aec796034f0b47b49718c798516a9dd1ca09c525ef09ea64810e"
     },
     {
       "path": "assets/30_frost_arrow_cast_body_staff-DwEZ5IGW.png",
@@ -596,14 +616,14 @@
       "sha256": "c04c7f4170b3841de5cc87be6b5d6b076ecf80d1f288829c54a331eee5865189"
     },
     {
-      "path": "assets/index-CXoS7zIb.js",
-      "bytes": 711973,
-      "sha256": "1b55197071c12a16158e19abe445909ec031698cf05275e1850c524a64182f29"
+      "path": "assets/index-DuGSWQPU.js",
+      "bytes": 722402,
+      "sha256": "1d85eb6a8cfc0aa88c41c689c33a6244a16d9f9ab5f1df9a44e4e4363eea721c"
     },
     {
-      "path": "assets/index-DYKrK_sP.css",
-      "bytes": 26622,
-      "sha256": "8c567652936befa0bba29b884d5e00d1c213ab7cf0947af8dfdcb7cc8158335f"
+      "path": "assets/index-qJdV2iva.css",
+      "bytes": 26873,
+      "sha256": "1718a738debcc99944bb9fbc8c62faa632fc5b8a15b6ef481ef7adeacc071de0"
     },
     {
       "path": "assets/init-Bb_cVuep.js",
@@ -703,7 +723,7 @@
     {
       "path": "index.html",
       "bytes": 1522,
-      "sha256": "96b932393d2d2f1a2ee4caf0755472ab4a74b5bbb83f6794f6959fb959b80b5c"
+      "sha256": "e1cec724d7df87794bd0a783c3aec0db88d062b1436ad6875713429f1f814e04"
     },
     {
       "path": "manifest.webmanifest",
@@ -717,13 +737,13 @@
     },
     {
       "path": "sw.js",
-      "bytes": 10940,
-      "sha256": "1de19a1d48b9506206797ae1a1dc019d36a09584280ef624858c67c7431e1cec"
+      "bytes": 11190,
+      "sha256": "a2665a0a37e71bbe7b993e62f8e25d4ad640bc1167e39353f61ea50196534e1f"
     },
     {
       "path": "version.json",
       "bytes": 209,
-      "sha256": "432b894d80617668d7880bfd57ab21994823b183adf07b6960d0bd32233d5501"
+      "sha256": "6e49334a2a7d5347bf2e11e7feddb6c7e9e468aa2322c47b125654875f1e17d1"
     },
     {
       "path": "workbox-71b77ef8.js",
