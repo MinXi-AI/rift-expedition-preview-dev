@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "version": "0.0.0-dev.1",
-  "sourceCommit": "14b813f1a973e30fffd9db5a40b5e92068e67657",
-  "artifactSha256": "6c1ae4ca14456f11209f037f45f3b6e169232bca831a8afabf0ca8b2b6c0d0c9",
+  "version": "0.1.0-dev.1",
+  "sourceCommit": "569f3f8d233f6644abe79bb5c18d698c84724c49",
+  "artifactSha256": "254367e5a52eaeaf43a112184f43b5693365d65d434d07a4a77dcccaab1d678b",
   "files": [
     {
       "path": ".nojekyll",
@@ -11,79 +11,144 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "assets/BufferResource-B9MMYLas.js",
-      "bytes": 10524,
-      "sha256": "e68894f363362dbe948e1fcf97453d81584c2d702ca60fec78a4370b7b422c67"
+      "path": "assets/20_body_staff-fTCzX20z.png",
+      "bytes": 735973,
+      "sha256": "7f2fb7c4f39fc529aec2b9bc3a0a54e20fba74e1e82b445d35d94c6fb75d28af"
     },
     {
-      "path": "assets/CanvasPool-CBUE2wup.js",
+      "path": "assets/20_guardian_idle_body_shield_sword_locked_v1-DxbOURog.png",
+      "bytes": 1063742,
+      "sha256": "3affb3d703392ff4d1d69b6953efff4589fa1d92a88701dec89af65809f14a9a"
+    },
+    {
+      "path": "assets/20_guardian_shield_gap_slash_strike_locked_v1-DaxaUQpE.png",
+      "bytes": 993192,
+      "sha256": "e5c9631fe09389d4184465eff323db084f050d3db593d30a797e86f81d496288"
+    },
+    {
+      "path": "assets/20_guardian_steady_deflection_hit_locked_v1-Bl8C_7uw.png",
+      "bytes": 1217152,
+      "sha256": "9f43227054913b933e5e879155166a9cbe9f8005b89409f9278787da13cc6b6f"
+    },
+    {
+      "path": "assets/20_lancer_idle_body_spear_locked_v1-DyzED1uB.png",
+      "bytes": 617245,
+      "sha256": "ecc01bf2440928d059ea980a16e6555f9cdbebee06a43f6c90c2d5b3563642ff"
+    },
+    {
+      "path": "assets/20_phantom_blade_basic_double_cut_shared_start_locked_v1-BObxkwq8.png",
+      "bytes": 647346,
+      "sha256": "2fb24bed179b5705ec7ecdbdb7a76e0bc3e028970c2e620a0ef72dd4ba70b26c"
+    },
+    {
+      "path": "assets/20_phantom_blade_hit_reaction_body_blades_locked_v1_edge_clean-WEIQ3gnb.png",
+      "bytes": 517065,
+      "sha256": "60d023f577fc6596acbe03285cc0f8bc19591ef0ff97927ed6c65a3b81edeed5"
+    },
+    {
+      "path": "assets/20_phantom_blade_idle_body_blades_locked_v1-B6fdZa0N.png",
+      "bytes": 728792,
+      "sha256": "4bc4da9e8157ea58d640ba6f72ae931620211dfb3575c3d688bd1b402e9d6a64"
+    },
+    {
+      "path": "assets/Cache-829yhVb_.js",
+      "bytes": 1098,
+      "sha256": "6962b941cbc53905e74cda05eb1ad839e6730770cdef23ee799cb99c65ecec32"
+    },
+    {
+      "path": "assets/CanvasPool-Drh2-D0w.js",
       "bytes": 756,
-      "sha256": "6ae96259f4a2bec30ec656331cce0052e3eedaeb75713f22575cc750c8a90cce"
+      "sha256": "e0f55a842a75829bd17d213743cc9b6c653879d0f1b8f1f8d3c82f460b01b57a"
     },
     {
-      "path": "assets/CanvasRenderer-DfpJrj4C.js",
-      "bytes": 87341,
-      "sha256": "fd2878e03d331995ab81af3883826eb9746f5b7a45016f6f524788b51f68e78b"
+      "path": "assets/Filter-DN6CAfD6.js",
+      "bytes": 38612,
+      "sha256": "c51d5e9df85009ed4748a8b09c39d1eae4209720fd4899c9143c649cb19fc752"
     },
     {
-      "path": "assets/Geometry-CmPv165j.js",
-      "bytes": 101609,
-      "sha256": "843091b67162fb492e81c0738004d3ae0ddacfff5fd2ebcfbdf6c5bde5fd7584"
+      "path": "assets/GCManagedHash-C7KtBhUx.js",
+      "bytes": 19299,
+      "sha256": "eb0c734d7d5a8a8f457b55587cf35f51795e1c61762111d871a0c7fc553bfe8a"
     },
     {
-      "path": "assets/RenderTargetSystem-CbmLP_N7.js",
-      "bytes": 71055,
-      "sha256": "775cf755a0b59007fb5e68dfdcda53ee4f52edb91639c9aa51adc2fa26fe72df"
+      "path": "assets/Geometry-DRttFfBF.js",
+      "bytes": 63107,
+      "sha256": "68de2c6059194c1336faeefb6559c4c1eff3bb610e205c2dd84329941dea82e4"
     },
     {
-      "path": "assets/browserAll-BxzeNbgJ.js",
-      "bytes": 42581,
-      "sha256": "1d93ba6cebce4dcf5bdf30d77f4bd89905e039f2a8863e53af7efcca125dc739"
+      "path": "assets/GraphicsContext-BqL5oBbO.js",
+      "bytes": 61057,
+      "sha256": "6d2cc1b079a3ee3fc04869e931327e2582ca45df34825b2a0ef2fb30359b9bea"
     },
     {
-      "path": "assets/canvasUtils-MWSuvLZG.js",
-      "bytes": 6021,
-      "sha256": "73c5bd6067d1a4c876708c84ef758b03118586fca67dceeb4d1c5e5e16f916cb"
+      "path": "assets/RenderTargetSystem-CPGO_PX-.js",
+      "bytes": 51787,
+      "sha256": "cbef40a213a917d012152ee609440e0613dc1fbc7226d5106fcc8edf2651b22d"
     },
     {
-      "path": "assets/getTextureBatchBindGroup-BfnRJ_ZF.js",
+      "path": "assets/browserAll-CgrUcdsU.js",
+      "bytes": 42612,
+      "sha256": "b4833d97d84b146b913ba4c930a07f0842a670f4c14975c6b0964e45d72e4c34"
+    },
+    {
+      "path": "assets/canvasUtils-BkU_PS4Z.js",
+      "bytes": 6020,
+      "sha256": "aa411f4bd88abe468ae4df7578e6dabd6e8eafb7f9448a4825e3d92fbc73b410"
+    },
+    {
+      "path": "assets/double_cut-yiU-LJTb.png",
+      "bytes": 39227,
+      "sha256": "92a717c41df72ba5bf236fde9248905feab15a1c51ee5dd763912e6df35d184f"
+    },
+    {
+      "path": "assets/getTextureBatchBindGroup-kpKonJe9.js",
       "bytes": 342,
-      "sha256": "4fb5fadabfade1a63b2eb788570624775cad43c85f0120afa828d89099691a64"
+      "sha256": "e2c9e87db07114975446c2a0d594c3a3d7784ae709fcdb53cfbb9f139b522e87"
     },
     {
-      "path": "assets/index-Dvj-PqoP.css",
-      "bytes": 3005,
-      "sha256": "cae79589d46ac4841af1327f00ad706bd7b44478d30a835c1abaac191dc154c2"
+      "path": "assets/index-BOtYGVYI.js",
+      "bytes": 509652,
+      "sha256": "0ce92cbf226b1edea3b0f52e16b44e9f9eca335c799b7b3a59a7f82629fc0774"
     },
     {
-      "path": "assets/index-zOlc-nIh.js",
-      "bytes": 395666,
-      "sha256": "3eb4baafcc7c334ac7468dad5e440bf97d52e799859c3470ab82b28515c64092"
+      "path": "assets/index-CM8bvPjb.css",
+      "bytes": 8515,
+      "sha256": "a883a6e9a17213a99cd5fe144176dc115705544f5bae925db41e4f5432fc19d4"
     },
     {
-      "path": "assets/init-LwzemzYp.js",
-      "bytes": 24675,
-      "sha256": "1f866b0fe24aff8c486f3145163dde1215482967fa912f558d226bd3ee36392a"
+      "path": "assets/init-Bb_cVuep.js",
+      "bytes": 15589,
+      "sha256": "7e55d731c01d34049064d91608c3373be81d7b857627ba977df76d0906c536ad"
     },
     {
-      "path": "assets/init-Puk_za5y.js",
-      "bytes": 15557,
-      "sha256": "5aa979d3281514370fa17ef7a9bd2264273db38be530512e29e406fff04c76f2"
+      "path": "assets/init-Btvmf5LW.js",
+      "bytes": 23772,
+      "sha256": "962a584f7aea3137db7bf11b81875271ed9fb79d5b2979d13003476784ea326f"
     },
     {
-      "path": "assets/src-UVnb99k-.js",
-      "bytes": 429,
-      "sha256": "ea7e6d388fc510bfdefcc85571e6ead3cd464c52771ebc2fb41085a9caff21cd"
+      "path": "assets/riftbound_forecourt_battlefield_locked_v1-uyAKnb3C.png",
+      "bytes": 2208571,
+      "sha256": "47947854031f366949c3a76a1314bf8609250d8a84d7dac4916a239ac38476da"
     },
     {
-      "path": "assets/webworkerAll-B5DV03RI.js",
+      "path": "assets/shield_slash-C20UnYOL.png",
+      "bytes": 55219,
+      "sha256": "571e78aafad6a199f2de5c38b0a9eeb87c0035fb0dc455e42dc52bb5fe38a7cf"
+    },
+    {
+      "path": "assets/src-CL0GgN7l.js",
+      "bytes": 767,
+      "sha256": "2dfea18f4575539f26550792eff4867dc4654707f5f3f04ef54a25569438bc6e"
+    },
+    {
+      "path": "assets/webworkerAll-BCUvr6zs.js",
       "bytes": 54,
-      "sha256": "5fc16385335b707be7b0248e95ad53c4d08377af61becf5ebbf93f7b8daa8e30"
+      "sha256": "99b4fb2b6a3c4d773386a559561dbbee3dc5f04f0411f4c1322d0305d4c5bb46"
     },
     {
       "path": "index.html",
-      "bytes": 1347,
-      "sha256": "23e7646a5b9af75152f09541aed92d547167c686e5346533b14311e1af0dedf2"
+      "bytes": 1502,
+      "sha256": "8a24d9390071cd543448b73a7a36dc5f8933d7386d50b2e422da25134ad11004"
     },
     {
       "path": "manifest.webmanifest",
@@ -97,13 +162,13 @@
     },
     {
       "path": "sw.js",
-      "bytes": 2037,
-      "sha256": "b5b5ff1e15a18ff713d31beb98f6e297ec16daa98192a3daa311090aff892aa1"
+      "bytes": 3009,
+      "sha256": "bb71f6b6c8bee07dd02086b0ebc7bac9bdb36fd85010bf0cd27f393382972616"
     },
     {
       "path": "version.json",
       "bytes": 209,
-      "sha256": "bfc46c4bff648cb4ee883d809d764ee56c485d6ff5f20c8b5cb06eeb36bfb382"
+      "sha256": "9a91146f834d74a3cce97ea8a15c704e1b2984fffe686f80751d73f583ef9bfc"
     },
     {
       "path": "workbox-71b77ef8.js",
