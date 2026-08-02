@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "version": "0.2.0-dev.6",
-  "sourceCommit": "5d21358dc71f0a5ac4cab2c1639df37677320976",
-  "artifactSha256": "4cfc4dba754e6606db0c69ffd2bcd8f5d1901f8cd56381b96fcacc1a07902ffc",
+  "version": "0.2.0-dev.7",
+  "sourceCommit": "fd6581ec04165e02b00e9215b6c89383efad5ab3",
+  "artifactSha256": "6a2f547b5c0f68599ecfae40a18c4aa02a4d9138c78eca1bf5e919761ec3e9b1",
   "files": [
     {
       "path": ".nojekyll",
@@ -106,14 +106,14 @@
       "sha256": "e2c9e87db07114975446c2a0d594c3a3d7784ae709fcdb53cfbb9f139b522e87"
     },
     {
-      "path": "assets/index-BVFkjh6y.css",
-      "bytes": 11404,
-      "sha256": "433c6388f17d5f635890ae3b07ea115268f0d1c5a6361e7713e764ccf0eb8d32"
+      "path": "assets/index-D17uMEmJ.js",
+      "bytes": 545104,
+      "sha256": "59e494519d8e03426313d07ca2d985814d95ec2ccd253be0df7709eed2c17aa3"
     },
     {
-      "path": "assets/index-Bj-ISDC0.js",
-      "bytes": 539460,
-      "sha256": "b6e6edc75f62633f57bc791d031328aacd4ec473cbe96fcd5bff0ce94a36e993"
+      "path": "assets/index-DWz0qeE8.css",
+      "bytes": 13032,
+      "sha256": "a2dc7f7d24e13003c086a0c21c2751263027fe4fca6434c3473d548ac5ff68b2"
     },
     {
       "path": "assets/init-Bb_cVuep.js",
@@ -148,7 +148,7 @@
     {
       "path": "index.html",
       "bytes": 1522,
-      "sha256": "0bfd1c562e16c7d2d6b2c467d959f25eac6bfb6a44c70986e8024a52e9d9e839"
+      "sha256": "6b076babf6c66a8fca3bd989d7f552945abf7d7168013ebca0e18ccfdfadff9d"
     },
     {
       "path": "manifest.webmanifest",
@@ -163,12 +163,12 @@
     {
       "path": "sw.js",
       "bytes": 3009,
-      "sha256": "f9e764ffff015757712007d4a32a4ec825ff4511f0645acbf04dc6cd5c8cc324"
+      "sha256": "5631d0951907caa08fe18ab3f8914a28ed87673d246281062b0c767001ab5b1a"
     },
     {
       "path": "version.json",
       "bytes": 209,
-      "sha256": "1330f5c2cff46023a668d68ea17db7672e3c32c773a512fcf4c9dddd046d81d0"
+      "sha256": "f60cf66c9d43e7897d5f38a597118a11c928793f421a00a6b56f6b8dad02dd85"
     },
     {
       "path": "workbox-71b77ef8.js",
