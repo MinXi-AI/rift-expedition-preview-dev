@@ -1,8 +1,8 @@
 {
   "channel": "dev",
-  "version": "0.3.0-dev.4",
-  "sourceCommit": "5034f3c662840423a8c2bd747903013944d22d2f",
-  "milestone": "M2",
-  "builtAt": "2026-08-02T17:42:04.036Z",
+  "version": "0.3.0-dev.5",
+  "sourceCommit": "04ce009831d41d0cb86d5a6225789e7504d63eb4",
+  "milestone": "M3",
+  "builtAt": "2026-08-02T18:09:16.613Z",
   "contentBaseline": "locked_v1"
 }
