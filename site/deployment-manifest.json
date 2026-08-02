@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "version": "0.4.0-dev.5",
-  "sourceCommit": "41c9ac590cf5c12238e0236a46ff0e58850eeb0d",
-  "artifactSha256": "50e5363b6805ccee2d7ddcfabf5c1c72b1c2d12c45a0f86eaed0155ea4c54300",
+  "version": "0.5.0-dev.1",
+  "sourceCommit": "586413c4b019cc9750c6167ad8476990108d54e9",
+  "artifactSha256": "7b9cf13d5e2e508a21fb0d792843f27298fc9b3741ba6d7297499f51caf6d61f",
   "files": [
     {
       "path": ".nojekyll",
@@ -11,14 +11,44 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "assets/00_rear_coat-vN5Gimwi.png",
+      "bytes": 396951,
+      "sha256": "3380c1020eb9b897db7714dfc62e0cd9224f9dcfcc83ddf060bd6c89fec0ceaa"
+    },
+    {
+      "path": "assets/10_phantom_blade_idle_body_blades_locked_v1-B6fdZa0N.png",
+      "bytes": 728792,
+      "sha256": "4bc4da9e8157ea58d640ba6f72ae931620211dfb3575c3d688bd1b402e9d6a64"
+    },
+    {
+      "path": "assets/10_ponytail-ASkQ3bHq.png",
+      "bytes": 173429,
+      "sha256": "4b1867cf3f9cbaf6c58742b6f439bec2416ae1c7699b6ac448343a3aec9263dd"
+    },
+    {
+      "path": "assets/11_phantom_blade_shared_feint_body_blades_locked_v1-BObxkwq8.png",
+      "bytes": 647346,
+      "sha256": "2fb24bed179b5705ec7ecdbdb7a76e0bc3e028970c2e620a0ef72dd4ba70b26c"
+    },
+    {
       "path": "assets/20_body_staff-fTCzX20z.png",
       "bytes": 735973,
       "sha256": "7f2fb7c4f39fc529aec2b9bc3a0a54e20fba74e1e82b445d35d94c6fb75d28af"
     },
     {
+      "path": "assets/20_guardian_crimson_rose_oath_rampart_guard_locked_v1-CSRD7xbj.png",
+      "bytes": 1132824,
+      "sha256": "0f7eea8424fa12d004fab578793f2c1db6fc5b8c71f8513cb2d77087c8697ffd"
+    },
+    {
       "path": "assets/20_guardian_idle_body_shield_sword_locked_v1-DxbOURog.png",
       "bytes": 1063742,
       "sha256": "3affb3d703392ff4d1d69b6953efff4589fa1d92a88701dec89af65809f14a9a"
+    },
+    {
+      "path": "assets/20_guardian_rose_intercession_guard_locked_v1-CYj64fXR.png",
+      "bytes": 1048460,
+      "sha256": "5edd6c170253010b65d9c9f3e8b23bac15330fc407b5f72afede30f1d6aeeefd"
     },
     {
       "path": "assets/20_guardian_shield_gap_slash_strike_locked_v1-DaxaUQpE.png",
@@ -31,14 +61,29 @@
       "sha256": "9f43227054913b933e5e879155166a9cbe9f8005b89409f9278787da13cc6b6f"
     },
     {
+      "path": "assets/20_lancer_basic_thrust_strike_locked_v1-CjwYQuX-.png",
+      "bytes": 608473,
+      "sha256": "0252c15ad15faf8d52b1977503bb3f0e77fe3e68bc739e82e27a3fabaa3e3d86"
+    },
+    {
+      "path": "assets/20_lancer_emberstep_reversal_locked_v1-0sKhcYnH.png",
+      "bytes": 562589,
+      "sha256": "04fc40de5f2271fcbe15cbd46d2e79d8951cb55f101311017263796e56c37476"
+    },
+    {
+      "path": "assets/20_lancer_hit_reaction_locked_v1-BJ1r-w2a.png",
+      "bytes": 588442,
+      "sha256": "bf656cc22a58485e9532ba7482ac44f1d196008b6749fbb39fd41a1fd39bf1b2"
+    },
+    {
       "path": "assets/20_lancer_idle_body_spear_locked_v1-DyzED1uB.png",
       "bytes": 617245,
       "sha256": "ecc01bf2440928d059ea980a16e6555f9cdbebee06a43f6c90c2d5b3563642ff"
     },
     {
-      "path": "assets/20_phantom_blade_basic_double_cut_shared_start_locked_v1-BObxkwq8.png",
-      "bytes": 647346,
-      "sha256": "2fb24bed179b5705ec7ecdbdb7a76e0bc3e028970c2e620a0ef72dd4ba70b26c"
+      "path": "assets/20_lancer_ultimate_flowing_fire_breakthrough_locked_v1-C3FZzUdT.png",
+      "bytes": 651132,
+      "sha256": "fafae34bb670081f9ae78dbeab41c6335789c2bf22556e6d7e6f4c00313b6790"
     },
     {
       "path": "assets/20_phantom_blade_hit_reaction_body_blades_locked_v1_edge_clean-WEIQ3gnb.png",
@@ -46,9 +91,349 @@
       "sha256": "60d023f577fc6596acbe03285cc0f8bc19591ef0ff97927ed6c65a3b81edeed5"
     },
     {
-      "path": "assets/20_phantom_blade_idle_body_blades_locked_v1-B6fdZa0N.png",
-      "bytes": 728792,
-      "sha256": "4bc4da9e8157ea58d640ba6f72ae931620211dfb3575c3d688bd1b402e9d6a64"
+      "path": "assets/20_phantom_blade_mirror_lure_slide_locked_v1_edge_clean-KQbmY0rz.png",
+      "bytes": 587905,
+      "sha256": "00d10a16464b0eaba8eab37f0cd5142d32d0e9646392d7326b3db16982f30665"
+    },
+    {
+      "path": "assets/20_phantom_blade_myriad_mirror_return_body_blades_locked_v1_edge_clean-BcrGiEcY.png",
+      "bytes": 416821,
+      "sha256": "2478d6f3031897a0c345b445a2c41006f79b6e090a6a9fb91da4ac85f0d7bbd6"
+    },
+    {
+      "path": "assets/21_body_staff_blink-DtbsYW-X.png",
+      "bytes": 737717,
+      "sha256": "a50cc452ab43d26497914f4e8d35de9c58d527f61914335904e767f6a59f308f"
+    },
+    {
+      "path": "assets/21_guardian_idle_body_shield_sword_blink_locked_v1-BwqihFeF.png",
+      "bytes": 1062932,
+      "sha256": "5eac1e4ffc78cc8276e1c841ac6dfdfd479703550db8b38d8ab4fa617f060f5b"
+    },
+    {
+      "path": "assets/21_phantom_blade_basic_double_cut_followthrough_locked_v1-CnJ8eG4V.png",
+      "bytes": 717021,
+      "sha256": "e123a0e14724c966448d7a886b1edf726d726a572106d19166ff3b933b202b2a"
+    },
+    {
+      "path": "assets/22_lancer_idle_body_spear_blink_locked_v1-BiOaClG2.png",
+      "bytes": 616718,
+      "sha256": "7aa6cddd7bf3b3293626e8ded2c5f17704933fe8f475b4febef257704d0c0849"
+    },
+    {
+      "path": "assets/22_phantom_blade_idle_body_blades_blink_locked_v1-DaU4Dxm1.png",
+      "bytes": 728253,
+      "sha256": "f7b9ac1f66b74900afc51bd7624ef0fbf768e6d246fef6f75f910b0d0bb62028"
+    },
+    {
+      "path": "assets/30_frost_arrow_cast_body_staff-DwEZ5IGW.png",
+      "bytes": 747485,
+      "sha256": "5451b9036d5a901b8d36de140e03fa791c4b4274c7d140ed3a13c351db8d2838"
+    },
+    {
+      "path": "assets/30_frost_bastion_body_staff-B6Xd6rqm.png",
+      "bytes": 948417,
+      "sha256": "8f7fed41f4863acd5c6b7593ea2cc6849be1c44004ad6d8aa111369924a30be1"
+    },
+    {
+      "path": "assets/30_guardian_crimson_rose_oath_rampart_cut_in_locked_v2-X7FNwrOz.png",
+      "bytes": 2772385,
+      "sha256": "72e229f391c7926239f41ac33ba8faea0d4bf7cab34e86a6bb41a1f3193e693d"
+    },
+    {
+      "path": "assets/30_hit_reaction_body_staff-B83IJ2uP.png",
+      "bytes": 905527,
+      "sha256": "1311d1c3c1910718caeb27cb5ad74407c82e45d8f583286b7241adbee48c4b32"
+    },
+    {
+      "path": "assets/30_lancer_ultimate_flowing_fire_breakthrough_cutin_locked_v1-CxWjI4DT.png",
+      "bytes": 2457544,
+      "sha256": "49345d411ce5ce4a8a4d791d248cfa82dca3839684918f57cbe5d0adb88514b5"
+    },
+    {
+      "path": "assets/30_ultimate_cut_in_locked_v1-BttqLf4j.png",
+      "bytes": 2556576,
+      "sha256": "e9276dcaa53affc7635a80d9577a55d61625d56aa402de728b28a9c5a82127e6"
+    },
+    {
+      "path": "assets/40_crimson_rose_oath_rampart_rgba-B5EE6eB5.png",
+      "bytes": 319346,
+      "sha256": "08b2e5b6fec344b5a3e2a0253f81ad83ef96902abd965ba2de92881475fc4d37"
+    },
+    {
+      "path": "assets/40_frost_arrow_projectile_additive-BTIhc7jH.png",
+      "bytes": 734601,
+      "sha256": "ec9dcce27a19ffedd46c9a76da31879e5d24cf619efc2bf6af229a26a4370756"
+    },
+    {
+      "path": "assets/40_frost_bastion_barrier_additive-FJjMGMtf.png",
+      "bytes": 1821822,
+      "sha256": "80fde43bfa9052c35ec848f02fd4678dcc9def8a885bfe18f9812eaf45a2c111"
+    },
+    {
+      "path": "assets/40_frozen_domain_field_additive-CCp9YpaE.png",
+      "bytes": 928170,
+      "sha256": "d4633ce2529ffeb0e08244f8b9591a8f3ce51100258a7ec7d42c33583e830310"
+    },
+    {
+      "path": "assets/40_hit_contact_flash_rgba-CKRibYK2.png",
+      "bytes": 57062,
+      "sha256": "fbb34b8665b273a80baaa0c0ece03af28873c6a5c568c6d5ab85103611d8607e"
+    },
+    {
+      "path": "assets/40_lancer_emberstep_incoming_streak_rgba-hhCkZhvj.png",
+      "bytes": 13193,
+      "sha256": "c3fdea01fd1aadecf2fdd3c019b115a3efa1d3fbb0a9747b6a9257454d5e0100"
+    },
+    {
+      "path": "assets/40_lancer_flowing_fire_cutin_overlay_rgba-DZc8-8FT.png",
+      "bytes": 34194,
+      "sha256": "ed81d2bb87894ad05d6047c17f9ebf5bc5bbfcd27f02b4ae027b91c3d37ea228"
+    },
+    {
+      "path": "assets/40_lancer_hit_incoming_streak_rgba-DJUbxQ6J.png",
+      "bytes": 11256,
+      "sha256": "1a22acc0d2c7d878d5ef43e454ce56310b9d7dabe2d8051c21e2f42ddf63441c"
+    },
+    {
+      "path": "assets/40_lancer_thrust_flash_rgba-Ci2ydUuq.png",
+      "bytes": 103959,
+      "sha256": "b4a1ae099f46c5cfcc40c1be73d050da544da44a3645a56621bc410f5058d463"
+    },
+    {
+      "path": "assets/40_phantom_blade_hit_contact_flash_rgba-DgjjZY-5.png",
+      "bytes": 79245,
+      "sha256": "72db15dfa073794eb12616149b68b19b806f64bbe5cab7f8cac0597ac17c098b"
+    },
+    {
+      "path": "assets/40_phantom_blade_mirror_switch_flash_rgba-CycUNv2Z.png",
+      "bytes": 118073,
+      "sha256": "d2fec754100c9f31194816518d0130af075f3e2ab1885cebe829784740efbd53"
+    },
+    {
+      "path": "assets/40_phantom_blade_myriad_mirror_gather_rgba-FeejERCX.png",
+      "bytes": 6426,
+      "sha256": "95202867b29b9b6cc2b4e16ab9ca320ade68e6e43bf81ed6cccb28aed2f60898"
+    },
+    {
+      "path": "assets/40_rose_guard_barrier_rgba-CGJdx0VQ.png",
+      "bytes": 206729,
+      "sha256": "b977f51cd6cce147eedec49efe1b55946a8f0bced04ffd3e839e2d14d04a898f"
+    },
+    {
+      "path": "assets/40_shield_pressure_flash_rgba-Bg9ifGLR.png",
+      "bytes": 106789,
+      "sha256": "49cfdb597216058a0d9355e2fc5dba40b5735dbc0f56fb38558196d862c5c10f"
+    },
+    {
+      "path": "assets/40_staff_crystal_glow_additive-QWRpqlWY.png",
+      "bytes": 549321,
+      "sha256": "01120db28fe150469a73b7280b354c3cc1eb39551637fd2fb72f568298e6eba5"
+    },
+    {
+      "path": "assets/40_steady_deflection_contact_flash_rgba-B0mPb9Bq.png",
+      "bytes": 148004,
+      "sha256": "268a8b16cee6efdfedcfb89ff7efc342cd15befd8a641329fdcf4dc99f1f5d9e"
+    },
+    {
+      "path": "assets/41_cast_flash_rgba-DrAcKUro.png",
+      "bytes": 49385,
+      "sha256": "33845dc17a2aa444f29b8301cd718edce5ec7f076f09e7b3ceba8ba358120d48"
+    },
+    {
+      "path": "assets/41_crimson_rose_absorption_impact_rgba-ke2roZgB.png",
+      "bytes": 146312,
+      "sha256": "7473cfa4be111c7f2e4d50f9792000fac1c09f89ce2700e4a7a46e0a5ee4598c"
+    },
+    {
+      "path": "assets/41_frost_bastion_impact_additive-QOx7WIc5.png",
+      "bytes": 31478,
+      "sha256": "8f0b66af40775c14af1753d2fe250485a9cc8fd61268626ab52869a8ed2eb8dd"
+    },
+    {
+      "path": "assets/41_frozen_domain_impact_additive-Bjd3aTeS.png",
+      "bytes": 547924,
+      "sha256": "73afdbd6e4781471ef6be8a7a34e1ca30118df6703c67f877760b76b828d24da"
+    },
+    {
+      "path": "assets/41_hit_ice_shards_rgba-C9CPp3H_.png",
+      "bytes": 27391,
+      "sha256": "30efcc9e00c7012d1929d035195ce282a6f71ab9c5a7b1988f8a31ed2d55bbc8"
+    },
+    {
+      "path": "assets/41_lancer_emberstep_deflection_arc_rgba-DeyXkat6.png",
+      "bytes": 43655,
+      "sha256": "d356ff7e7fc10c55a501c7c784d10461023cb9853a23aa057d7d86371156f9c9"
+    },
+    {
+      "path": "assets/41_lancer_flowing_fire_transition_slash_rgba-Y4sh3SsQ.png",
+      "bytes": 44080,
+      "sha256": "46332b3d0f084cb94ed2b56c13f9211aab27d9899e764e21056cfff7d6573f44"
+    },
+    {
+      "path": "assets/41_lancer_hit_contact_burst_rgba-Bo022GNM.png",
+      "bytes": 43226,
+      "sha256": "8b568e755801dea4887768651bebaa88f97945b42680ffbe7849dee147c74496"
+    },
+    {
+      "path": "assets/41_lancer_thrust_streak_rgba-BCZEY1sd.png",
+      "bytes": 30412,
+      "sha256": "7420672843b88e180cadbfb1146d76282936649180ba476036b9d56a2119fd28"
+    },
+    {
+      "path": "assets/41_phantom_blade_false_slash_a_rgba-BuNZzrja.png",
+      "bytes": 73962,
+      "sha256": "cfe4a4435390bdf751617b5f8736a5fb29538f7a0a7017975f4ef4bf287fb252"
+    },
+    {
+      "path": "assets/41_phantom_blade_hit_mirror_shards_rgba-ClKkey0P.png",
+      "bytes": 48190,
+      "sha256": "b54b4c318901b7cf2b952d1e96d7f629102880a12ed0891c2d3aa9880e03c8fc"
+    },
+    {
+      "path": "assets/41_phantom_blade_long_cut_arc_rgba-CAhwGoUA.png",
+      "bytes": 44160,
+      "sha256": "287e42b1ebbd10cfa96c4a83c39d608c92448639d56394b8ba23ef192c8402de"
+    },
+    {
+      "path": "assets/41_phantom_blade_mirror_gap_mark_rgba-C-ROuHTl.png",
+      "bytes": 56952,
+      "sha256": "2f3c4e794f09f9b0a2325027bb63bec663038c14b5befde931f057412c97de78"
+    },
+    {
+      "path": "assets/41_rose_guard_impact_rgba-PSWLtGwm.png",
+      "bytes": 149397,
+      "sha256": "45ab5faf0ac75e1681ac0d2ca7e93d08a8500fd1a1ba100fc524d4bc0e25b032"
+    },
+    {
+      "path": "assets/41_shield_gap_slash_arc_rgba-DL0jJ9d6.png",
+      "bytes": 51082,
+      "sha256": "33f5204ba90947b99322cab39047665661db8cdd9d38dd9b24f9ef7db97d4027"
+    },
+    {
+      "path": "assets/41_steady_deflection_fragments_rgba-DwLjpccI.png",
+      "bytes": 74003,
+      "sha256": "444d1b48c31be5bb3bb1a9259facc1a611c29572e6aaab7c087c029303a91788"
+    },
+    {
+      "path": "assets/42_crimson_rose_shield_heart_rgba-D_Ms-yys.png",
+      "bytes": 97003,
+      "sha256": "fb04c0687e5eaacfe5a8fa6178a4d19bc27cfbbd04a3c18c616c93c195afcd46"
+    },
+    {
+      "path": "assets/42_frost_impact_burst_rgba-DGjb8pAk.png",
+      "bytes": 84445,
+      "sha256": "4de41c590fd97ae0bfb5d3f2a9e8665623c491d6c3320925ae032cde05ae7f51"
+    },
+    {
+      "path": "assets/42_frost_vignette_rgba-DWaG6E7D.png",
+      "bytes": 18377,
+      "sha256": "0a28c616a6d2de7444f2a882c072bacd95b84e88acdcbbf345766877f125e621"
+    },
+    {
+      "path": "assets/42_guard_oath_ready_rgba-lX9GM-cZ.png",
+      "bytes": 81802,
+      "sha256": "141a04d6bc1a03c1b9b9522e7e26e124767257604fd3a8bac1c3f3a196576754"
+    },
+    {
+      "path": "assets/42_lancer_chase_edge_ready_rgba--EJGFki2.png",
+      "bytes": 42362,
+      "sha256": "56acb5d2a64c239ee668254d4d8349d2d1344213769d75d2a4781f47e78e2f28"
+    },
+    {
+      "path": "assets/42_lancer_flowing_fire_breakthrough_trail_rgba-CUl5HkHL.png",
+      "bytes": 43586,
+      "sha256": "316762d6fcb68cb9f03b192b1b744e1638495d0db572f29b4cac8590dcd48cdd"
+    },
+    {
+      "path": "assets/42_lancer_hit_brace_sparks_rgba-DXDtNm5J.png",
+      "bytes": 11360,
+      "sha256": "6af9bdb69e9926fa9a969813f2cc98f54e4c0962f8c0d78d32929222f85723b5"
+    },
+    {
+      "path": "assets/42_lancer_thrust_hit_spark_rgba-B7EgqPBS.png",
+      "bytes": 52162,
+      "sha256": "1a3d2c87d2ef4b5fc12cde86d7986e4b05597e7e4639282014b0e8628c2f8513"
+    },
+    {
+      "path": "assets/42_phantom_blade_false_slash_b_rgba-Dj5BqGbu.png",
+      "bytes": 71151,
+      "sha256": "b4d9aa4ba2b8c355e2f25b2f2b20a0477476856a3eab27a1b0a4ffe5c7941ba6"
+    },
+    {
+      "path": "assets/42_phantom_blade_hit_recovery_veil_rgba-jMwrXYjm.png",
+      "bytes": 79721,
+      "sha256": "4a4a07e04261a43b97c239a835ac25726036bb91bda6bd334370a72904b9b3cc"
+    },
+    {
+      "path": "assets/42_phantom_blade_mirror_lure_side_slip_dust_rgba-DYyXcNhZ.png",
+      "bytes": 48727,
+      "sha256": "f8212358a777fe88c1ee6a32261e9316a1b909b72313745618dfb4ed7c3b3424"
+    },
+    {
+      "path": "assets/42_phantom_blade_short_cut_arc_rgba-BCYFjIpZ.png",
+      "bytes": 28372,
+      "sha256": "3d72f6b509e2122742c8a77a94142a88e9de1ff20d9812a2178a3fc83bc9d18b"
+    },
+    {
+      "path": "assets/42_shield_gap_hit_spark_rgba-MjL2YkC7.png",
+      "bytes": 57735,
+      "sha256": "6ca47ea14c2341f39c5147dffa4989bccf7ba89ac315934ab0bb1537bca6f0e5"
+    },
+    {
+      "path": "assets/43_crimson_rose_counter_wave_rgba-DqIRCa-L.png",
+      "bytes": 47178,
+      "sha256": "2840bba5309608d9f7c530e694c66e8d0111ee296163e64c49d68a0490346b45"
+    },
+    {
+      "path": "assets/43_lancer_flowing_fire_tail_reversal_arc_rgba-CxcrLbUM.png",
+      "bytes": 122140,
+      "sha256": "6177516d82eb86ea9b70a6185ec34c4c12be0720afb78842796accb7f53745ae"
+    },
+    {
+      "path": "assets/43_phantom_blade_double_cut_hit_spark_rgba-osrimdTO.png",
+      "bytes": 57415,
+      "sha256": "e10878a9aa23587a61183ad584fbc773a20ed26170e2e28a6e14b000ec2c84ca"
+    },
+    {
+      "path": "assets/43_phantom_blade_energy_tether_peak_rgba-CXc9pyeH.png",
+      "bytes": 39424,
+      "sha256": "036cfd921ab5d9ec2dfc63d68de9d1da822be9df08dcaf22a3bbd3f329bde2cd"
+    },
+    {
+      "path": "assets/43_phantom_blade_final_cross_return_rgba-DioLNDhe.png",
+      "bytes": 185333,
+      "sha256": "dff33b98229f56520be97209eebbf0d6dfbb673651d2099171fdea4c5fcdc2fd"
+    },
+    {
+      "path": "assets/44_crimson_rose_cutin_overlay_rgba-CUXulgJ8.png",
+      "bytes": 133290,
+      "sha256": "a7e3ca91f7cbb9448274267fe4226a4f7471f8a0df112321cce6841f7ac390cc"
+    },
+    {
+      "path": "assets/44_lancer_flowing_fire_finisher_burst_rgba-COjDCf70.png",
+      "bytes": 123194,
+      "sha256": "52b26b9673cdaa794c5f62d583b17ea7e73fb7f78b5ccd00bc6b2e8f7273a271"
+    },
+    {
+      "path": "assets/44_phantom_blade_empty_slide_wisp_rgba-BorZKuLc.png",
+      "bytes": 9555,
+      "sha256": "45c49bfad0c2e0bf62fb6ff34408f11df202e2051f443ab40a47eac891f3d957"
+    },
+    {
+      "path": "assets/44_phantom_blade_mirror_gap_consume_rgba-BW1q7kXE.png",
+      "bytes": 41680,
+      "sha256": "54313cc1331c0efb98b6b46f07d8b0a7d963b4f43bb3c095fda48b1b8f8f9b33"
+    },
+    {
+      "path": "assets/45_crimson_rose_cutin_transition_rgba-CIR_5f3B.png",
+      "bytes": 103614,
+      "sha256": "db617b10b1afcd4c99ccda4527eec13ed241f9cdb0a4e910daa8dc1a3459fe1b"
+    },
+    {
+      "path": "assets/45_phantom_blade_return_veil_rgba-BFK73Apy.png",
+      "bytes": 122869,
+      "sha256": "6d6bd1f00d7052d2b25dc27bcd3318e29e972c1e3c8af78690c71e27ba8e5a5f"
     },
     {
       "path": "assets/Cache-829yhVb_.js",
@@ -86,9 +471,24 @@
       "sha256": "cbef40a213a917d012152ee609440e0613dc1fbc7226d5106fcc8edf2651b22d"
     },
     {
+      "path": "assets/ally_all-B4pr4d9R.png",
+      "bytes": 10608,
+      "sha256": "b833a3228b58ff120a801e9fe6906f01344034a1c3f0c74e750656ee580c50b3"
+    },
+    {
+      "path": "assets/ally_single-Dh9pF23B.png",
+      "bytes": 10193,
+      "sha256": "a2ebba7f501a10130df76eb77a60c32e953fc04e89d1c35bf94fa97cf0cc25cd"
+    },
+    {
       "path": "assets/browserAll-CgrUcdsU.js",
       "bytes": 42612,
       "sha256": "b4833d97d84b146b913ba4c930a07f0842a670f4c14975c6b0964e45d72e4c34"
+    },
+    {
+      "path": "assets/buff-DZr7wRgr.png",
+      "bytes": 10511,
+      "sha256": "063ecb5ab614061fd4189b21ddaca10fbb04c647b60fc79d83dd5339c2f1f35c"
     },
     {
       "path": "assets/canvasUtils-BkU_PS4Z.js",
@@ -96,9 +496,84 @@
       "sha256": "aa411f4bd88abe468ae4df7578e6dabd6e8eafb7f9448a4825e3d92fbc73b410"
     },
     {
+      "path": "assets/charged-MLHIMiOE.png",
+      "bytes": 9253,
+      "sha256": "bb6779500b792af498ced7ea4dfd46574a0a9ede5b794065b4f8d4dcd66b31d2"
+    },
+    {
+      "path": "assets/control-CwdkIWdf.png",
+      "bytes": 9960,
+      "sha256": "0d202904fc45b5d9862b59d684fd40017c53251f47edb49f5985f7005feb0a34"
+    },
+    {
+      "path": "assets/crimson_edge_pierce-D9d1HtTF.png",
+      "bytes": 18523,
+      "sha256": "3d2cac10743c1bdf35c604eacb35e57203debc7f3db2f45279441144a8a84a1c"
+    },
+    {
+      "path": "assets/crimson_rose_bastion-BhjnaBoD.png",
+      "bytes": 61558,
+      "sha256": "03cfd0dfc88b9cd20c7403c5572db64f1784f0db5ec0cda9cdcaf14b610069a3"
+    },
+    {
+      "path": "assets/damage_over_time-DNbG8qHS.png",
+      "bytes": 9628,
+      "sha256": "3aced5ede852db05df0a693aeb0704d826521cacceffedb61e7c0341d239002b"
+    },
+    {
+      "path": "assets/debuff-CiVMRA3t.png",
+      "bytes": 9508,
+      "sha256": "96b8d37c615d7f3dbece99783896a2c11bbc99d0c228daa17aa751b02f1306c9"
+    },
+    {
       "path": "assets/double_cut-yiU-LJTb.png",
       "bytes": 39227,
       "sha256": "92a717c41df72ba5bf236fde9248905feab15a1c51ee5dd763912e6df35d184f"
+    },
+    {
+      "path": "assets/emberstep_reversal-FPj1XKWa.png",
+      "bytes": 39468,
+      "sha256": "69ff5d41963e39a9aedb63a5af8d169bc469b2cae7ea70e2d6d07c27802b0434"
+    },
+    {
+      "path": "assets/enemy_all-kALjYoPT.png",
+      "bytes": 9925,
+      "sha256": "d1242169c43a6ca95b82ace87a08bee211fdbf3ba6dd2e9f8e815e299da0a8ac"
+    },
+    {
+      "path": "assets/enemy_single-EyUSNOAm.png",
+      "bytes": 8095,
+      "sha256": "cb428387e720d019cae0521b00e0948af4ff43ac32e6bbc2da6c8de88344ce94"
+    },
+    {
+      "path": "assets/energy-C1UPvW0E.png",
+      "bytes": 6436,
+      "sha256": "125bacd2fdd529f5a7e81cf1617aa5e13b8d440580d6a0266ab924628da33a6d"
+    },
+    {
+      "path": "assets/fast-B2y8afX1.png",
+      "bytes": 7411,
+      "sha256": "d14e43b2ce6be0ee910af3d7745eb9d34ca4fdecaec35076eea5aed1d455d41f"
+    },
+    {
+      "path": "assets/flowing_fire_breakthrough-waF_0MPn.png",
+      "bytes": 38304,
+      "sha256": "ce1b841b223bfd1d262ed8500bbce6e97aedafffa8c64ac26166075c53ad8be7"
+    },
+    {
+      "path": "assets/frost_arrow-CVHGHbDu.png",
+      "bytes": 25750,
+      "sha256": "c3d5155975ad598d084c32b809e630d1ec7fd73b29ac4e4a40af00cf4adbfee9"
+    },
+    {
+      "path": "assets/frost_bastion-Npvi-OnH.png",
+      "bytes": 53638,
+      "sha256": "50c7e675c5b157750be198e9b4f44af2fdd7ee884cf62fcfa010dcf7e32f000b"
+    },
+    {
+      "path": "assets/frozen_domain-BU110zvb.png",
+      "bytes": 72935,
+      "sha256": "3d105e5da7771be6c08c0dc91b214fad3f5e61611bb8459f4ec7f5a0232ad093"
     },
     {
       "path": "assets/getTextureBatchBindGroup-kpKonJe9.js",
@@ -106,14 +581,19 @@
       "sha256": "e2c9e87db07114975446c2a0d594c3a3d7784ae709fcdb53cfbb9f139b522e87"
     },
     {
+      "path": "assets/health-DAdjSrzQ.png",
+      "bytes": 9350,
+      "sha256": "c04c7f4170b3841de5cc87be6b5d6b076ecf80d1f288829c54a331eee5865189"
+    },
+    {
       "path": "assets/index-CWKmEmgk.css",
       "bytes": 24943,
       "sha256": "a0f5db1c3eb84a020076b5547850acdb67d8a7e62f26825656aaa7c534c73bba"
     },
     {
-      "path": "assets/index-Q8TCCWy_.js",
-      "bytes": 571786,
-      "sha256": "c5b52ae2d4bec2db81a1e8b85c37bbb9197a3a629f7245199692da12aa8da34d"
+      "path": "assets/index-dMaiAb2S.js",
+      "bytes": 704788,
+      "sha256": "e4dcc5aa330779ce3fdbe80c5077950b1b2f40281a942d35e5e066e25833ea2e"
     },
     {
       "path": "assets/init-Bb_cVuep.js",
@@ -126,9 +606,59 @@
       "sha256": "962a584f7aea3137db7bf11b81875271ed9fb79d5b2979d13003476784ea326f"
     },
     {
+      "path": "assets/mirror_lure-DPfH7kOi.png",
+      "bytes": 33031,
+      "sha256": "1c29b3778bcfed878d62eaaa840a18649813ed9c7791e2c0fb9cea7fff44af15"
+    },
+    {
+      "path": "assets/myriad_mirror_return-DrQuOAQT.png",
+      "bytes": 61256,
+      "sha256": "1c580319f6743926a445cf887cf154face06b293392616a147a09a9f6c671e3f"
+    },
+    {
+      "path": "assets/order_lock-DMHP6PUj.png",
+      "bytes": 6322,
+      "sha256": "550fc848dbfedbb5e899f7991747053decdc2cb8364274a97fce72d55e69ada8"
+    },
+    {
+      "path": "assets/order_locked-D1ajVDK6.png",
+      "bytes": 6987,
+      "sha256": "93fd619386a29499dcf9c42f33c47dbb4def8864cb279c218aca9384f31733c2"
+    },
+    {
+      "path": "assets/random-BtG8Boqq.png",
+      "bytes": 7548,
+      "sha256": "58678f08bd943bf040ed1514336e6727681037957ef2fba9b4825c9693a0a8e8"
+    },
+    {
+      "path": "assets/ready-izbEgAmS.png",
+      "bytes": 7122,
+      "sha256": "cbaf77929c1707b738a79568f056cd8a78b43f49fd579493339fb6fbe208aea0"
+    },
+    {
       "path": "assets/riftbound_forecourt_battlefield_locked_v1-uyAKnb3C.png",
       "bytes": 2208571,
       "sha256": "47947854031f366949c3a76a1314bf8609250d8a84d7dac4916a239ac38476da"
+    },
+    {
+      "path": "assets/rose_intercession-oEbpxv8u.png",
+      "bytes": 57839,
+      "sha256": "e14c9e7a09c78cef3bea281f48036925c2b8106a45c1eaaeb2dc9cf10d5dd7c6"
+    },
+    {
+      "path": "assets/self-09G1tLSQ.png",
+      "bytes": 8214,
+      "sha256": "f2cd85cb1ae9c04876560dca635e4607aeb39fcc87edcc97bb8a4bd0e2903ed0"
+    },
+    {
+      "path": "assets/shadow_affix-BICapZhk.png",
+      "bytes": 11014,
+      "sha256": "a03e292754931d09a086e58252b59084f14ad7dc97e8ab498277f4fc70ea456c"
+    },
+    {
+      "path": "assets/shield-BB908hIt.png",
+      "bytes": 13001,
+      "sha256": "e3291b07e8fad49953df1dc94cafbe4c21b1d76eb084a324d074c4acd29f0626"
     },
     {
       "path": "assets/shield_slash-C20UnYOL.png",
@@ -141,6 +671,21 @@
       "sha256": "5b978407f6577ada9d600db63d5b01c7522a63e76a6b8b6fc645c97e21afb5e9"
     },
     {
+      "path": "assets/stance-Dh9hVqui.png",
+      "bytes": 7856,
+      "sha256": "4c225b0f4f70c050ea935529e9c19fc2b9a2749946c1e68c6d992c33b0e4c4a1"
+    },
+    {
+      "path": "assets/stance_break-Bi2J2RwN.png",
+      "bytes": 7797,
+      "sha256": "2c2245bf3477a2444675dc5698c0aef73f103e70d89ad797d9b316db6b1a52f3"
+    },
+    {
+      "path": "assets/unable_to_act-DxE7tOaC.png",
+      "bytes": 11734,
+      "sha256": "78f64237af9fe4ccf8494f1f5f434102410fbb410c3ee8b0bf55cbc45d6be788"
+    },
+    {
       "path": "assets/webworkerAll-BCUvr6zs.js",
       "bytes": 54,
       "sha256": "99b4fb2b6a3c4d773386a559561dbbee3dc5f04f0411f4c1322d0305d4c5bb46"
@@ -148,7 +693,7 @@
     {
       "path": "index.html",
       "bytes": 1522,
-      "sha256": "927532523611cf883776ed6d1b0b87f7d5c13f74a1150ded1d0b02cc1c85db49"
+      "sha256": "3060f59b546bcd8394e046684ae8ed79a49fcc066de7617dd05d2ccadfd4f494"
     },
     {
       "path": "manifest.webmanifest",
@@ -162,13 +707,13 @@
     },
     {
       "path": "sw.js",
-      "bytes": 3009,
-      "sha256": "27748f999611db843635a206f48f24143e97eafff34ed31a1b13ea9d525afae9"
+      "bytes": 10805,
+      "sha256": "ee99ff2ea1f341ac5dfc866c2c2a535d01d3319f24c3312d6d30d4116e99caa5"
     },
     {
       "path": "version.json",
       "bytes": 209,
-      "sha256": "a1e7bbe1adc8a54b10ba81eb19cbadd3a6bf92ae049a046237a5994c10a2cbd8"
+      "sha256": "af382b95ccaf3f92f60aacf131d9da06fcc4c92b9bb1a497d734212e85e5a52e"
     },
     {
       "path": "workbox-71b77ef8.js",
