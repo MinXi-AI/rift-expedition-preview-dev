@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "version": "0.5.0-dev.8",
-  "sourceCommit": "3a015a96675754b62d7f91fc7b2cdaa22722d6f9",
-  "artifactSha256": "3012a7a8b79648bdd21e360b9be642320934731d19055dbc92e4973fb976f3f3",
+  "version": "0.6.0-dev.1",
+  "sourceCommit": "d89d958b97841bc3d8211e7664242106bba1e8b9",
+  "artifactSha256": "78ad2a8b5f78bd22eb75fb2bee04e0a8fc253da127478d01326a0af350f8dd16",
   "files": [
     {
       "path": ".nojekyll",
@@ -616,9 +616,9 @@
       "sha256": "c04c7f4170b3841de5cc87be6b5d6b076ecf80d1f288829c54a331eee5865189"
     },
     {
-      "path": "assets/index-CArQ80j2.js",
-      "bytes": 723447,
-      "sha256": "aef21abf30f89bbe19f47915c4531c6877c9fd0be942392dddc5f5ce2d375e9e"
+      "path": "assets/index-K_GB631u.js",
+      "bytes": 731897,
+      "sha256": "23dd0189876e11e7076e347632e5571b8bad0d689d7209f28fec0cac55478803"
     },
     {
       "path": "assets/index-e9pU3_la.css",
@@ -723,7 +723,7 @@
     {
       "path": "index.html",
       "bytes": 1522,
-      "sha256": "3cc1a4f1bcc6c794e303722c284e216f59886ee6248db9556b2b7e027e09f968"
+      "sha256": "679141ce1f7a26f7de72dc4e2c4ff2767392e167beedd1a88b4a214e407d06bf"
     },
     {
       "path": "manifest.webmanifest",
@@ -738,12 +738,12 @@
     {
       "path": "sw.js",
       "bytes": 11190,
-      "sha256": "c8d267f4fc60ed03e11c8b129c98f368fc2b1d7376d49150f44593e8bf4b4fcc"
+      "sha256": "962e522bd92001bd6f0e19f40570b6810db4b728b05d63c02e216f03c1b73f78"
     },
     {
       "path": "version.json",
       "bytes": 209,
-      "sha256": "fac5b639479a981fd5ba69d4f5098298b8a6e815a972329cc9f8afcd65e4580c"
+      "sha256": "ef157a6295b5250125c44250fb02133738d3c2b65cb13fb04316b75a679994da"
     },
     {
       "path": "workbox-71b77ef8.js",
