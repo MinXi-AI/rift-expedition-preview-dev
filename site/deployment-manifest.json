@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "version": "0.6.0-dev.5",
-  "sourceCommit": "4f9144fdd00acde47ccc06388854f3b81bdf6163",
-  "artifactSha256": "1f1164859aefef79672d2394bd9227fe91d833112c12a6a42455499b44ef2b43",
+  "version": "0.7.0-dev.1",
+  "sourceCommit": "0f4e7fdd898f4d36a27d5eb86e1123ec5aacf8f9",
+  "artifactSha256": "661f0e99414522830ac32fb40ecd4aec068ec4e4848602f51fb02ac671f35ad6",
   "files": [
     {
       "path": ".nojekyll",
@@ -621,9 +621,9 @@
       "sha256": "f70447d9285449138ec5276a020c99561826535d3257dad8395abc03299648dc"
     },
     {
-      "path": "assets/index-Dxp5dfcX.js",
+      "path": "assets/index-s84-VxL8.js",
       "bytes": 743401,
-      "sha256": "7efa3421ebe886ad206e4e630819c32d5918848f52715531a9ffde71a167a00a"
+      "sha256": "0e088be05c4a904ec2acd683aea44d4fe84f6d55d9c7ad56bd8d2e267f726a70"
     },
     {
       "path": "assets/init-Bb_cVuep.js",
@@ -723,7 +723,7 @@
     {
       "path": "index.html",
       "bytes": 1522,
-      "sha256": "651e5fb39d9cadf2b59c498900d733a74f7551ad2dabc936bed514bbf3957239"
+      "sha256": "ead9654f5861b122e6c62ffcab6eac7f444f1136f4c37a0e89ba98368b615dc6"
     },
     {
       "path": "manifest.webmanifest",
@@ -738,12 +738,12 @@
     {
       "path": "sw.js",
       "bytes": 11190,
-      "sha256": "b10c89e3856b52e2e448f8c8ed9f4be2aa0632d6a12489bc642394efae9f68d7"
+      "sha256": "f7392582efacd8ffd6d1631dd72f3e7f3c204cd0fcaa7a6f213e8d63d68bda3d"
     },
     {
       "path": "version.json",
       "bytes": 209,
-      "sha256": "0991f02a16acb9e9b460e17fd3d0188286ba76465b348a8eb8a8e26d598b34c3"
+      "sha256": "4b2dc124d73472fa7c439ec67f09fc78550bfd61948b331d807f4fdb2e69ba4c"
     },
     {
       "path": "workbox-71b77ef8.js",
