@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "version": "0.6.0-dev.3",
-  "sourceCommit": "34e9d9964de68e154e7cba2a646d1abf0838cd36",
-  "artifactSha256": "e420577f65470879834cc4de781a4a2f8e32f731513249efe42f99b75b31d372",
+  "version": "0.6.0-dev.4",
+  "sourceCommit": "db432aee615ccd3f63bd8a5fe046c71cd103b671",
+  "artifactSha256": "dcec7050ddd4c88d0607d7518301692222be9961d76ac0f6f46cf6e90d72d2ac",
   "files": [
     {
       "path": ".nojekyll",
@@ -616,9 +616,9 @@
       "sha256": "c04c7f4170b3841de5cc87be6b5d6b076ecf80d1f288829c54a331eee5865189"
     },
     {
-      "path": "assets/index-CKRHrGRS.js",
-      "bytes": 736214,
-      "sha256": "5565ddc087059ae2cdfd93050a96fb8da58d912cc28a209c93506814c52fc796"
+      "path": "assets/index-CFf6kYQt.js",
+      "bytes": 739631,
+      "sha256": "6575aa1faca38b52e8875e459fe9893bd508b5506125625c2ff571f228ebcdcb"
     },
     {
       "path": "assets/index-DHinSW5a.css",
@@ -723,7 +723,7 @@
     {
       "path": "index.html",
       "bytes": 1522,
-      "sha256": "9048ae2eb2dcf7437abf627a267f97dad3760ad88c47d374a4e112517a27181d"
+      "sha256": "dc2f3d61efc88c9b0adc2f436660a8ca5afc2e5feef20ba1128d5c9e7938f817"
     },
     {
       "path": "manifest.webmanifest",
@@ -738,12 +738,12 @@
     {
       "path": "sw.js",
       "bytes": 11190,
-      "sha256": "0a37ceea79528a3f0b6aeb95be5319767350c08afc4d58083d98afa3cd416a3e"
+      "sha256": "59a318a6fe0f0acfc02be9cc42f662fd9a3c0f330d9aa7663a1748cab8944206"
     },
     {
       "path": "version.json",
       "bytes": 209,
-      "sha256": "fce8f731b3ae3f84ca63fabf630289cb607e61516a015112083413cfebc25196"
+      "sha256": "07e39dee28b22a942d3565c786c42fabc48c34763f51ea1ad9225ecced5e397b"
     },
     {
       "path": "workbox-71b77ef8.js",
